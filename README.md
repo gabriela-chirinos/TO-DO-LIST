@@ -38,5 +38,7 @@ This was one of my earlier projects, showcasing my foundational understanding of
 Improvements to Consider:
 
 Responsiveness: The design could be improved to work better across small screens (currently not mobile-friendly).
- Persistent Data: Tasks could be saved to localStorage, so they persist after refreshing the page.
+
+Persistent Data: Tasks could be saved to localStorage, so they persist after refreshing the page.
+
 Accessibility Enhancements: Adding focus styles and ARIA attributes would make the app more inclusive.
